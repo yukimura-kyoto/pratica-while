@@ -1,6 +1,6 @@
 package while_no_java;
 
-public class ContagemRegressiva {
+public class Ex01 {
 
     // Atividade 01
 

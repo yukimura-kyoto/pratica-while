@@ -1,7 +1,7 @@
 package while_no_java;
 import java.util.Scanner;
 
-public class FatorialNumero {
+public class Ex07 {
     static void main() {
 
         // Atividade 07
@@ -12,7 +12,7 @@ public class FatorialNumero {
         System.out.print("Digite um número: ");
         int n1 = sc.nextInt();
 
-        while (n1>=0){
+        while (n1>=1){
 
             b = b*a; // b mais a igual b atual
             a++; // adiciona +1

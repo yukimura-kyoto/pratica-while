@@ -2,7 +2,7 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class Tabuada {
+public class Ex03 {
 
     // Atividade 03
 

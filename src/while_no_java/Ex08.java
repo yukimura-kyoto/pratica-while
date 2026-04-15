@@ -2,7 +2,7 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class SomaNumerosPares {
+public class Ex08 {
 
     // Atividade 08
 

@@ -2,7 +2,7 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class MaiorNumero {
+public class Ex09 {
 
     // Atividade 09
 
@@ -16,7 +16,7 @@ public class MaiorNumero {
         while (n1>0){
             System.out.println("Digite um numero");
             n1 = sc.nextInt();
-            if (maior <= n1){
+            if (maior < n1){
                 maior = n1;
             }
         }

@@ -2,7 +2,7 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class ContadorPar {
+public class Ex05 {
 
     // Atividade 05
 

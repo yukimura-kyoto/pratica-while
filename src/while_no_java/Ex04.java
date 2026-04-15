@@ -2,8 +2,11 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class NumeroSecreto {
+public class Ex04 {
     static void main() {
+
+        // Atividade 04
+
         Scanner sc = new Scanner(System.in);
         int snum=7,digiNum;
 
