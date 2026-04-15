@@ -3,6 +3,9 @@ package while_no_java;
 import java.util.Scanner;
 
 public class SomaNumerosPares {
+
+    // Atividade 08
+
     static void main() {
         Scanner sc = new Scanner(System.in);
         int n1;
