@@ -2,7 +2,7 @@ package while_no_java;
 
 import java.util.Scanner;
 
-public class Par_50 {
+public class ContadorPar {
     static void main() {
         Scanner sc = new Scanner(System.in);
         int quantidade=0;

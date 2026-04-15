@@ -1,6 +1,6 @@
 package while_no_java;
 
-public class Contagem10 {
+public class SomaNumeros {
     static void main() {
         int num = 1;
 

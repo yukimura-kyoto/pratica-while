@@ -1,7 +1,7 @@
 package while_no_java;
 import java.util.Scanner;
 
-public class Fatorial {
+public class FatorialNumero {
     static void main() {
         Scanner sc = new Scanner(System.in);
         int a = 0,b=0;
